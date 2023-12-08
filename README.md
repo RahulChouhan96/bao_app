@@ -19,6 +19,6 @@ How to run API?
 ## How to run tests?
 Simply run command `python manage.py test myapp`
 
-Improvements
+## Improvements
 1. Add secret key in env variable so that it is not exposed.
 2. All packages in app should be installed without specifically mentioning each one of them.
